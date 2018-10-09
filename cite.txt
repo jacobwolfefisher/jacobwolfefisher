@@ -1,0 +1,24 @@
+	<!DOCTYPE html>
+<html lang="en">
+	<head>
+	<title> The Godfather of AI </title>
+	<meta http-equiv="Content-Type"
+ content="text/html; charset=utf-8"/>
+<link href="style2.css" rel="stylesheet" type="text/css"/>
+ <meta charset="utf-8"/>
+ <style>
+ body { background-color:black;
+}
+ </style>
+
+	</head>
+	<body>
+		<H1> Marvin Minsky, the Godfather of AI </h1>
+		<h2> Work Cited </h2>
+	<li><a href="marvin minsky.html">The History &amp; Home Page</a></li>
+		<center><div class="box">
+		<h3> His most Popular books </h3>
+		</div></center>
+
+	</body>
+	

@@ -1,0 +1,57 @@
+/*
+CSS for marvin minsky site
+*/
+
+h1 {
+ font-size: x-large;
+ text-align: center;
+}
+h1, h2, h3 {
+ text-align: center;
+ font-family: courier;
+ color: #00ff00;
+}
+p { 
+  float: center;
+  font-family: "Trebuchet MS", Helvetica, Arial, sans-serif;
+  color: #00ff00;
+}
+
+.intro	 {
+	overflow: auto;
+}
+* {
+    box-sizing: border-box;
+}
+.box {
+  float: center;
+  width: 30%; 
+    border-style: solid;
+    border-width: 1px;
+    border-left-width: 1px;
+    border-right-width: 1px;
+    border-color: #00ff00;
+  margin: 20px;
+}
+a:link {
+ color: #00ff00;
+}
+a:visited {
+ color: #00ff00;
+}
+a:hover {
+ text-decoration: none;
+ color: green;
+}
+a:active {
+ color: #00ff00;
+}
+	
+th	{
+	 color: #00ff00;
+	 font-size: small;
+}
+td  {
+	 color: #00ff00;
+	 font-size: small;
+}
